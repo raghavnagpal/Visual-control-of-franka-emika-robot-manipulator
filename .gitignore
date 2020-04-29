@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+vision_control_ws/.catkin_workspace
+vision_control_ws/devel/
+vision_control_ws/src/CMakeLists.txt
