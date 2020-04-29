@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: vision_control
+    relative_path: desc/franka_camera_control.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/panda_hand_camera.srdf
+  CONFIG:
+    author_name: jj
+    author_email: jj@singh.com
+    generated_timestamp: 1587272238
