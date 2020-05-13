@@ -19,7 +19,7 @@ Steps to run the setup:
   ```
   
   System and version info:
-  >Ros Melodic
-  >Ubuntu 18.04
-  >python2.7
-  >tensorflow 1.15.2
+   - Ros Melodic
+   - Ubuntu 18.04
+   - python2.7
+   - tensorflow 1.15.2
