@@ -1,5 +1,8 @@
 # Visual-control-of-franka-emika-robot-manipulator
-Visual control of franka emika robot manipulator
+
+[![Visual-control-of-franka-emika-robot-manipulator](http://img.youtube.com/vi/gXpepEG5mnA/0.jpg)](https://youtu.be/gXpepEG5mnA "Visual-control-of-franka-emika-robot-manipulator")
+
+<strong>Visual control of franka emika robot manipulator Using Tensorflow and RGB-D camera.</strong>
 
 Note: You may need to install dependancies first. See below.
 
@@ -23,3 +26,6 @@ Steps to run the setup:
    - Ubuntu 18.04
    - python2.7
    - tensorflow 1.15.2
+
+
+TODO: Add datagenration and training instructions
